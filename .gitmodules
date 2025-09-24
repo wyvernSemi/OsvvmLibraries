@@ -35,3 +35,6 @@
 [submodule "Wishbone"]
 	path = Wishbone
 	url = ../Wishbone.git
+[submodule "PCIe"]
+	path = PCIe
+	url = https://github.com/wyvernsemi/OsvvmPCIe
